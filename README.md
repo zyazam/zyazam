@@ -9,7 +9,6 @@
 
 - 🔭 I’m currently working on C++ and Python development projects
 - 💬 Ask me about **C++, Python, Algorithms, and System Programming**
-- 📫 How to reach me: [@yourhandle](https://twitter.com/yourhandle) on Twitter
 - ⚡ Fun fact: I love solving algorithmic challenges and optimizing code
 
 -------
