@@ -34,6 +34,17 @@ I enjoy building efficient algorithms, working with data structures, and writing
 </p>
 
 ---
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight&hide_border=true" alt="Zaid's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
 
 ## 📫 Contact
 
