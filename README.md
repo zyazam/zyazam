@@ -18,7 +18,6 @@ I enjoy building efficient algorithms, working with data structures, and writing
 
 - GitHub: [github.com/YourUsername](https://github.com/YourUsername)  
 - Twitter: [@yourhandle](https://twitter.com/yourhandle)  
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
 
 ---
 
