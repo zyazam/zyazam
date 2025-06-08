@@ -16,7 +16,7 @@ I enjoy building efficient algorithms, working with data structures, and writing
 
 ## 📫 Contact
 
-- GitHub: [github.com/YourUsername](https://github.com/zyazam)  
+- GitHub: [https://github.com/zyazam)  
 - Twitter: [@yourhandle](https://twitter.com/yourhandle)  
 
 ---
