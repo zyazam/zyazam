@@ -34,6 +34,7 @@ I enjoy building efficient algorithms, working with data structures, and writing
 </p>
 
 ---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -48,7 +49,7 @@ I enjoy building efficient algorithms, working with data structures, and writing
 
 ## 📫 Contact
 
-- GitHub: [https://github.com/zyazam)  
+- GitHub: [github.com/YourUsername](https://github.com/YourUsername)  
 - Twitter: [@yourhandle](https://twitter.com/yourhandle)  
 - LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
 
