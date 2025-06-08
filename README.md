@@ -1,33 +1,25 @@
-<h2 align="center">👋 Hello! I'm Zaid Yousef.</h2>
-<p align="center">
-  <a href="https://your-blog-link.com">Blog</a> •
-  <a href="https://twitter.com/yourhandle">Twitter</a> •
-  <a href="https://www.linkedin.com/in/yourprofile">LinkedIn</a>
-</p>
+# 👋 Hello! I'm Zaid Yousef
+
+I'm a software developer with a passion for solving complex problems using **C++** and **Python**.  
+I enjoy building efficient algorithms, working with data structures, and writing clean, maintainable code.
 
 ---
 
-- 🔭 I’m currently working on C++ and Python development projects
-- 💬 Ask me about **C++, Python, Algorithms, and System Programming**
-- ⚡ Fun fact: I love solving algorithmic challenges and optimizing code
+## 💻 Tech Stack
 
--------
+- 🐍 Python — scripting, automation, and backend development  
+- 💠 C++ — performance-critical applications and system-level programming  
+- 🧠 Algorithms & problem-solving  
+- 🛠 Git, Linux, Bash  
 
-**📝 Latest Blog Posts**
+---
 
-<!-- BLOG-POST-LIST:START -->
-- [Understanding Pointers in C++: Deep Dive](https://your-blog-link.com/pointers-in-cpp)
-- [Building CLI Tools With Python](https://your-blog-link.com/python-cli-tools)
-- [Best Practices for Clean C++ Code](https://your-blog-link.com/clean-cpp)
-<!-- BLOG-POST-LIST:END -->
+## 📫 Contact
 
--------
+- GitHub: [github.com/YourUsername](https://github.com/YourUsername)  
+- Twitter: [@yourhandle](https://twitter.com/yourhandle)  
+- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
 
-📊 **Weekly development breakdown**
-<!--START_SECTION:waka-->
+---
 
-```txt
-C++          5 hrs 12 mins   ████████████████████░░░░░   78.20 %
-Python       1 hr 10 mins    █████▒░░░░░░░░░░░░░░░░░░░   17.63 %
-Markdown     10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
-Other        5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
+Thanks for visiting! 😊
