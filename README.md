@@ -1,18 +1,34 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")](#)
-
-# مرحبًا! 👋
-
-أنا **زيد يوسف**، مبرمج متخصص في لغتي **C++** و**Python**. أحب بناء البرامج القوية والخوارزميات الفعالة، وأسعى دائمًا لتطوير مهاراتي التقنية والعمل على مشاريع ذات تأثير فعلي.
-
-📍 من الأردن  
-💻 أعمل على مشاريع مفتوحة المصدر وشخصية  
-📬 تواصل معي عبر [LinkedIn](#) أو من خلال GitHub
+<h2 align="center">👋 Hello! I'm Zaid Yousef.</h2>
+<p align="center">
+  <a href="https://your-blog-link.com">Blog</a> •
+  <a href="https://twitter.com/yourhandle">Twitter</a> •
+  <a href="https://www.linkedin.com/in/yourprofile">LinkedIn</a>
+</p>
 
 ---
 
-## 🔧 المهارات والأدوات التي أستخدمها
+- 🔭 I’m currently working on C++ and Python development projects
+- 💬 Ask me about **C++, Python, Algorithms, and System Programming**
+- 📫 How to reach me: [@yourhandle](https://twitter.com/yourhandle) on Twitter
+- ⚡ Fun fact: I love solving algorithmic challenges and optimizing code
 
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2b%2b&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.sh
+-------
+
+**📝 Latest Blog Posts**
+
+<!-- BLOG-POST-LIST:START -->
+- [Understanding Pointers in C++: Deep Dive](https://your-blog-link.com/pointers-in-cpp)
+- [Building CLI Tools With Python](https://your-blog-link.com/python-cli-tools)
+- [Best Practices for Clean C++ Code](https://your-blog-link.com/clean-cpp)
+<!-- BLOG-POST-LIST:END -->
+
+-------
+
+📊 **Weekly development breakdown**
+<!--START_SECTION:waka-->
+
+```txt
+C++          5 hrs 12 mins   ████████████████████░░░░░   78.20 %
+Python       1 hr 10 mins    █████▒░░░░░░░░░░░░░░░░░░░   17.63 %
+Markdown     10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
+Other        5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
